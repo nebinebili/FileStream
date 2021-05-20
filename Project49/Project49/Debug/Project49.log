@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Project49\Project49\Source.cpp(125): warning C4715: 'findd': not all control paths return a value
+  Project49.vcxproj -> C:\Users\Admin\source\repos\Project49\Debug\Project49.exe
